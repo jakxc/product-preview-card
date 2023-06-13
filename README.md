@@ -20,7 +20,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
-- See hover and focus states for interactive elements
+- See hover and focus states for interactive elements (i.e. button)
 
 ### Screenshot
 
@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/a-responsive-perfume-product-card-ZnpWg4hxF1)
+- Live Site URL: [Add live site URL here](https://product-preview-card-by-jakxc.netlify.app/)
 
 ## My process
 
